@@ -1,0 +1,2 @@
+interface Loopback101
+   ip address 101.101.101.104/32

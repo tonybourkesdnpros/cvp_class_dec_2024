@@ -1,0 +1,200 @@
+interface Loopback100
+   ip add 10.10.4.100/32
+interface Loopback101
+   ip add 10.10.4.101/32
+interface Loopback102
+   ip add 10.10.4.102/32
+interface Loopback103
+   ip add 10.10.4.103/32
+interface Loopback104
+   ip add 10.10.4.104/32
+interface Loopback105
+   ip add 10.10.4.105/32
+interface Loopback106
+   ip add 10.10.4.106/32
+interface Loopback107
+   ip add 10.10.4.107/32
+interface Loopback108
+   ip add 10.10.4.108/32
+interface Loopback109
+   ip add 10.10.4.109/32
+interface Loopback110
+   ip add 10.10.4.110/32
+interface Loopback111
+   ip add 10.10.4.111/32
+interface Loopback112
+   ip add 10.10.4.112/32
+interface Loopback113
+   ip add 10.10.4.113/32
+interface Loopback114
+   ip add 10.10.4.114/32
+interface Loopback115
+   ip add 10.10.4.115/32
+interface Loopback116
+   ip add 10.10.4.116/32
+interface Loopback117
+   ip add 10.10.4.117/32
+interface Loopback118
+   ip add 10.10.4.118/32
+interface Loopback119
+   ip add 10.10.4.119/32
+interface Loopback120
+   ip add 10.10.4.120/32
+interface Loopback121
+   ip add 10.10.4.121/32
+interface Loopback122
+   ip add 10.10.4.122/32
+interface Loopback123
+   ip add 10.10.4.123/32
+interface Loopback124
+   ip add 10.10.4.124/32
+interface Loopback125
+   ip add 10.10.4.125/32
+interface Loopback126
+   ip add 10.10.4.126/32
+interface Loopback127
+   ip add 10.10.4.127/32
+interface Loopback128
+   ip add 10.10.4.128/32
+interface Loopback129
+   ip add 10.10.4.129/32
+interface Loopback130
+   ip add 10.10.4.130/32
+interface Loopback131
+   ip add 10.10.4.131/32
+interface Loopback132
+   ip add 10.10.4.132/32
+interface Loopback133
+   ip add 10.10.4.133/32
+interface Loopback134
+   ip add 10.10.4.134/32
+interface Loopback135
+   ip add 10.10.4.135/32
+interface Loopback136
+   ip add 10.10.4.136/32
+interface Loopback137
+   ip add 10.10.4.137/32
+interface Loopback138
+   ip add 10.10.4.138/32
+interface Loopback139
+   ip add 10.10.4.139/32
+interface Loopback140
+   ip add 10.10.4.140/32
+interface Loopback141
+   ip add 10.10.4.141/32
+interface Loopback142
+   ip add 10.10.4.142/32
+interface Loopback143
+   ip add 10.10.4.143/32
+interface Loopback144
+   ip add 10.10.4.144/32
+interface Loopback145
+   ip add 10.10.4.145/32
+interface Loopback146
+   ip add 10.10.4.146/32
+interface Loopback147
+   ip add 10.10.4.147/32
+interface Loopback148
+   ip add 10.10.4.148/32
+interface Loopback149
+   ip add 10.10.4.149/32
+interface Loopback150
+   ip add 10.10.4.150/32
+interface Loopback151
+   ip add 10.10.4.151/32
+interface Loopback152
+   ip add 10.10.4.152/32
+interface Loopback153
+   ip add 10.10.4.153/32
+interface Loopback154
+   ip add 10.10.4.154/32
+interface Loopback155
+   ip add 10.10.4.155/32
+interface Loopback156
+   ip add 10.10.4.156/32
+interface Loopback157
+   ip add 10.10.4.157/32
+interface Loopback158
+   ip add 10.10.4.158/32
+interface Loopback159
+   ip add 10.10.4.159/32
+interface Loopback160
+   ip add 10.10.4.160/32
+interface Loopback161
+   ip add 10.10.4.161/32
+interface Loopback162
+   ip add 10.10.4.162/32
+interface Loopback163
+   ip add 10.10.4.163/32
+interface Loopback164
+   ip add 10.10.4.164/32
+interface Loopback165
+   ip add 10.10.4.165/32
+interface Loopback166
+   ip add 10.10.4.166/32
+interface Loopback167
+   ip add 10.10.4.167/32
+interface Loopback168
+   ip add 10.10.4.168/32
+interface Loopback169
+   ip add 10.10.4.169/32
+interface Loopback170
+   ip add 10.10.4.170/32
+interface Loopback171
+   ip add 10.10.4.171/32
+interface Loopback172
+   ip add 10.10.4.172/32
+interface Loopback173
+   ip add 10.10.4.173/32
+interface Loopback174
+   ip add 10.10.4.174/32
+interface Loopback175
+   ip add 10.10.4.175/32
+interface Loopback176
+   ip add 10.10.4.176/32
+interface Loopback177
+   ip add 10.10.4.177/32
+interface Loopback178
+   ip add 10.10.4.178/32
+interface Loopback179
+   ip add 10.10.4.179/32
+interface Loopback180
+   ip add 10.10.4.180/32
+interface Loopback181
+   ip add 10.10.4.181/32
+interface Loopback182
+   ip add 10.10.4.182/32
+interface Loopback183
+   ip add 10.10.4.183/32
+interface Loopback184
+   ip add 10.10.4.184/32
+interface Loopback185
+   ip add 10.10.4.185/32
+interface Loopback186
+   ip add 10.10.4.186/32
+interface Loopback187
+   ip add 10.10.4.187/32
+interface Loopback188
+   ip add 10.10.4.188/32
+interface Loopback189
+   ip add 10.10.4.189/32
+interface Loopback190
+   ip add 10.10.4.190/32
+interface Loopback191
+   ip add 10.10.4.191/32
+interface Loopback192
+   ip add 10.10.4.192/32
+interface Loopback193
+   ip add 10.10.4.193/32
+interface Loopback194
+   ip add 10.10.4.194/32
+interface Loopback195
+   ip add 10.10.4.195/32
+interface Loopback196
+   ip add 10.10.4.196/32
+interface Loopback197
+   ip add 10.10.4.197/32
+interface Loopback198
+   ip add 10.10.4.198/32
+interface Loopback199
+   ip add 10.10.4.199/32

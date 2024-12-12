@@ -1,0 +1,8 @@
+interface loopback99
+  ip address 99.99.99.99/32
+
+interface loopback102
+  ip address 102.102.102.102/32
+
+interface loopback103
+  ip address 103.103.103.103/32

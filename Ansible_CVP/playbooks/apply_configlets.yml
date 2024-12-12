@@ -1,0 +1,10 @@
+---
+- name: Apply configlets 
+  hosts: cvp
+  tasks:
+    - name: Create container
+      arista.cvp.cv_container_v3:
+        topology: "{{ CVP_CONTAINERS }}"
+    - name: Apply configlets to devices
+      arista.cvp.cv_device_v3:
+        devices: "{{ CVP_DEVICES }}"

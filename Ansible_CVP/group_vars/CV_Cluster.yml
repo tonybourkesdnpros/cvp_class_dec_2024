@@ -1,0 +1,29 @@
+---
+CONFIGLET_LIST:
+  MLAG_Left: "{{ lookup('file', '../configlets/MLAG_Left.txt') }}"
+  MLAG_Right: "{{ lookup('file', '../configlets/MLAG_Right.txt') }}"
+
+CVP_CONTAINERS:
+  MLAG_Left:
+    parentContainerName: Leaf
+  MLAG_Right:
+    parentContainerName: Leaf
+
+
+CVP_DEVICES:
+  - fqdn: leaf1
+    parentContainerName: MLAG_Left
+    configlets:
+      - 'MLAG_Left'
+  - fqdn: leaf2
+    parentContainerName: MLAG_Right
+    configlets:
+      - 'MLAG_Right'
+  - fqdn: leaf3
+    parentContainerName: MLAG_Left
+    configlets:
+      - 'MLAG_Left'
+  - fqdn: leaf4
+    parentContainerName: MLAG_Right
+    configlets:
+      - 'MLAG_Right'

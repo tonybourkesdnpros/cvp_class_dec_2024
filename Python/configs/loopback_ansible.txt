@@ -1,0 +1,7 @@
+interface loopback 1001
+  ip address 101.101.101.101/32
+
+interface Ethernet 1
+  channel-group 2000 mode active
+interface Ethernet 2
+  channel-group 2000 mode active

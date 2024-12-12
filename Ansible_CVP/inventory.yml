@@ -1,0 +1,11 @@
+---
+CV_Cluster:
+  hosts:  
+    cvp:
+      ansible_connection: httpapi
+      ansible_user: arista
+      ansible_password: arista4851
+      ansible_httpapi_use_ssl: true
+      ansible_httpapi_validate_certs: False
+      ansible_network_os: eos
+      ansible_httpapi_port: 443

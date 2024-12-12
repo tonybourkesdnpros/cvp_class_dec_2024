@@ -1,0 +1,8 @@
+---
+- name: Upload text file as configlet
+  hosts: cvp
+  tasks:
+    - name: Upload using arista.cvp module
+      arista.cvp.cv_configlet_v3:
+        configlets: "{{ CONFIGLET_LIST }}"
+        state: present
